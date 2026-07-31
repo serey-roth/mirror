@@ -1,0 +1,17 @@
+# MediaPipe model files
+*.task
+
+# Video output
+output.mp4
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
